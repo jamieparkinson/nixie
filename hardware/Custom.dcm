@@ -1,0 +1,103 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +HV
+D Power symbol creates a global label with name "+HV"
+K power-flag
+$ENDCMP
+#
+$CMP +HV_MID
+D Power symbol creates a global label with name "+HV_MID"
+K power-flag
+$ENDCMP
+#
+$CMP FDS2672
+D 14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8
+K HEXFET N-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
+$ENDCMP
+#
+$CMP FDS6630A
+D 6.5A Id, 30V Vds, N-Channel MOSFET, 38mOhm Ron, SOIC-8
+K N-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/FDS6630A-D.pdf
+$ENDCMP
+#
+$CMP IRF7403
+D 9.7A Id, 30V Vds, N-Channel HEXFET Power MOSFET, SO-8
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf7403pbf.pdf?fileId=5546d462533600a4015355fa23541b9c
+$ENDCMP
+#
+$CMP Si4162DY
+D 19.3A Id, 30V Vds, TrenchFET N-Channel Power MOSFET, SO-8
+K N-Channel MOSFET
+F http://www.vishay.com/docs/68967/si4162dy.pdf
+$ENDCMP
+#
+$CMP UCC3801
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3802
+D Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3803
+D Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3804
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3805
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3813-0
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 7.2V/6.9V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-1
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-2
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-3
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-4
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-5
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+#End Doc Library
