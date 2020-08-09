@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name hardware)(type KiCad)(uri /home/jamie/Documents/projects/nixie/hardware)(options "")(descr ""))
+  (lib (name nixies)(type Legacy)(uri /home/jamie/Documents/projects/nixie/hardware/nixies-us.mod)(options "")(descr ""))
+)
